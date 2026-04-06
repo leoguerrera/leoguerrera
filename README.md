@@ -2,7 +2,7 @@
 
 Supply Chain professional with 9+ years in Logistics and Operations, transitioning into Data Analytics.
 
-I build dashboards and data analysis focused on operational decisions — inventory, freight, sales and returns.
+I build dashboards and data analysis focused on operational decisions: inventory, freight, sales and returns.
 
 ---
 
