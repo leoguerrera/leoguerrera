@@ -28,9 +28,9 @@ I build dashboards and data analysis focused on operational decisions: inventory
 ---
 
 ## Currently studying
-- DAX and data modeling in Power BI
-- Advanced SQL
-- Python with pandas
+- Star schema modeling and time intelligence in DAX
+- Window functions and CTEs in SQL Server
+- Python with pandas for data pipelines
 
 ---
 
