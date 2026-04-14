@@ -17,6 +17,7 @@ I build dashboards and data analysis focused on operational decisions: inventory
 |---|---|---|
 | [FreshMart — E-commerce Dashboard](https://github.com/leoguerrera/freshmart-ecommerce-powerbi) | Power BI, DAX, Star Schema | Sales, returns, inventory and business overview for a food e-commerce operation |
 | [E-commerce Sales Analysis](https://github.com/leoguerrera/ecommerce-sales-analysis) | SQL Server, Python, Power BI | End-to-end sales analysis using Olist dataset: SQL queries, data pipeline and interactive dashboard |
+| [SQLab — SQL Trainer](https://github.com/leoguerrera/sqlab-sql-trainer) | HTML, CSS, JavaScript | Interactive SQL training tool built in the browser — no installation required |
 
 ---
 
@@ -28,9 +29,8 @@ I build dashboards and data analysis focused on operational decisions: inventory
 ---
 
 ## Currently studying
-- Star schema modeling and time intelligence in DAX
-- Window functions and CTEs in SQL Server
-- Python with pandas for data pipelines
+- Algorithms and programming logic
+- Python (Hashtag Treinamentos — 118h course, in progress)
 
 ---
 
