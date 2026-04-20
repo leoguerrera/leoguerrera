@@ -18,6 +18,7 @@ I build dashboards and data analysis focused on operational decisions: inventory
 | [FreshMart — E-commerce Dashboard](https://github.com/leoguerrera/freshmart-ecommerce-powerbi) | Power BI, DAX, Star Schema | Sales, returns, inventory and business overview for a food e-commerce operation |
 | [E-commerce Sales Analysis](https://github.com/leoguerrera/ecommerce-sales-analysis) | SQL Server, Python, Power BI | End-to-end sales analysis using Olist dataset: SQL queries, data pipeline and interactive dashboard |
 | [SQLab — SQL Trainer](https://github.com/leoguerrera/sqlab-sql-trainer) | HTML, CSS, JavaScript | Interactive SQL training tool built in the browser — no installation required |
+| [NexTask — Gerenciador de Projetos](https://github.com/leoguerrera/nextask) | HTML, CSS, JavaScript | Gerenciador de projetos pessoal que roda direto no browser — integrado com IA para manter contexto entre sessões |
 
 ---
 
